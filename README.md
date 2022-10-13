@@ -18,7 +18,7 @@
     <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Ftgmarinho%2FREADME-ecoleta">
   </a>
 
-  <a href="https://www.linkedin.com/feed/">
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-de-souza-ribeiro-16b083192/">
     <img alt="made by Vinícius" src="https://img.shields.io/badge/made%20by-Vinícius-%237519C1">
   </a>
 </p>
@@ -80,9 +80,9 @@ This project is divided into three parts and three repositories
 </br>
 Este projeto é divido em três partes e três repositórios:
 
-1. [Backend/Server] (https://github.com/viniiisouza29/eSports-server)
-2. [Frontend/Web] (https://github.com/viniiisouza29/eSports-web)
-3. [Mobile/App] (https://github.com/viniiisouza29/eSports-mobile)
+1. [Backend/Server](https://github.com/viniiisouza29/eSports-server)
+2. [Frontend/Web](https://github.com/viniiisouza29/eSports-web)
+3. [Mobile/App](https://github.com/viniiisouza29/eSports-mobile)
 
 ⚠️Create a folder for each of these divisions, then paste them all into a joint folder.
 </br>
@@ -95,12 +95,12 @@ Este projeto é divido em três partes e três repositórios:
 ### Pre-requisites / Pré-requisitos
 
 Before you begin, you will need to have the following tools installed on your machine:
-[Git] (https://git-scm.com), [Node.js] (https://nodejs.org/en/).
-In addition, it is good to have an editor to work with the code like [VSCode] (https://code.visualstudio.com/)
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
+In addition, it is good to have an editor to work with the code like [VSCode](https://code.visualstudio.com/)
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: 
-[Git] (https://git-scm.com), [Node.js] (https://nodejs.org/en/).
-Além disto é bom ter um editor para trabalhar com o código como [VSCode] (https://code.visualstudio.com/)
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 #### Running backend / Rodando o Backend (server/servidor)
 
@@ -235,4 +235,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-Made with love by Vinícius de Souza / Feito com amor por Vinícius de Souza 👋🏽 [Get in Touch! / Clique aqui! ](https://www.linkedin.com/in/vin%C3%ADcius-de-souza-ribeiro-16b083192/)
+Made with love by Vinícius de Souza / Feito com amor por Vinícius de Souza 👋🏽 [Get in Touch! / Clique aqui!](https://www.linkedin.com/in/vin%C3%ADcius-de-souza-ribeiro-16b083192/)
